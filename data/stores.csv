@@ -1,0 +1,13 @@
+store,region,format,size_sqft,peer_group
+Store A,East,Standard,20500,Standard
+Store B,West,Standard,23000,Standard
+Store C,North,Large,25500,Large
+Store D,South,Standard,18000,Standard
+Store E,East,Standard,20500,Standard
+Store F,West,Large,23000,Large
+Store G,North,Standard,25500,Standard
+Store H,South,Standard,18000,Standard
+Store I,East,Large,20500,Large
+Store J,West,Standard,23000,Standard
+Store K,North,Standard,25500,Standard
+Store L,South,Large,18000,Large
